@@ -9,6 +9,7 @@
 }
 
 .checkoutProduct_info > button {
+    display: flex;
     background: #f0c14b;
     border: 1px solid;
     margin-top: 10px;
@@ -27,6 +28,6 @@
 }
 
 .checkoutProduct_title {
-    font-size: 17px;
-    font-weight: 800;
+    font-size: 13px;
+    font-weight: 600;
 }
